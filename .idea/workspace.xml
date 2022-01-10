@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7925360-d058-42a5-8f82-d878964971d4" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Barbershop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/OT_TT_Install_E.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/OT_TT_Install_R.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PT Free Font License_eng_1.2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PT Free Font License_rus_1.2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PTC55F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PTC75F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PTN57F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PTN77F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PTS55F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PTS56F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PTS75F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/PTSans/PTS76F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/._PTSans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._OT_TT_Install_E.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._OT_TT_Install_R.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PT Free Font License_eng_1.2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PT Free Font License_rus_1.2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PTC55F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PTC75F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PTN57F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PTN77F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PTS55F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PTS56F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PTS75F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/ptsans/__MACOSX/PTSans/._PTS76F.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/web/ptsansnarrow.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/web/ptsansnarrow.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/web/ptsansnarrowbold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/web/ptsansnarrowbold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_source/barbershop-index.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_source/barbershop-index.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_source/barbershop-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_source/barbershop-item.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_source/barbershop-price.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_source/barbershop-price.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_source/barbershop-shop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_source/barbershop-shop.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_source/styleguide.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
@@ -96,6 +53,8 @@
       <workItem from="1641596422659" duration="13000" />
       <workItem from="1641614992362" duration="39000" />
       <workItem from="1641677307851" duration="88000" />
+      <workItem from="1641678862991" duration="55000" />
+      <workItem from="1641678968492" duration="53000" />
     </task>
     <servers />
   </component>
